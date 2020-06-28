@@ -27,6 +27,8 @@ Contents:
 --------------------
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+
+   Introduction
+   Tutorial
+   Documentations
 
